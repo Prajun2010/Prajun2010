@@ -1,4 +1,4 @@
-### 🧑: About Me :
+### 😎 About Me :
 
 - 👋 Hi, I’m Prajun Lungeli
 - 💻 I'm a software engineer who belives in the power of coding to solve most of the problems around the world. 

@@ -1,8 +1,8 @@
 ### 😎 About Me :
 
 - 👋 Hi, I’m Prajun Lungeli
-- 💻 I'm a software engineer who belives in the power of coding to solve most of the problems around the world. 
-- 🌱 I’m currently learning and developing an android releated projects.
+- 💻 I'm a software engineer who believes in the power of coding to solve most problems worldwide. 
+- 🌱 I’m currently learning and developing an android-related project.
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-PrajunLungeli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajun-lungeli-magar/)
 
 
